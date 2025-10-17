@@ -1,5 +1,4 @@
-# 🌱Introduce
-
+# HI
 <!--
 **hod0ng/hod0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
