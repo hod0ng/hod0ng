@@ -5,6 +5,9 @@ AWS 기반 인프라 운영과 Kubernetes, CI/CD 자동화 경험을 통해 **�
 또한 Docker 컨테이너와 ELK·DevSecOps 프로젝트를 수행하며 **장애 대응 및 서비스 안정성 확보**역량을 키웠습니다.
 이러한 경험을 바탕으로 **대규모 게임** **서비스 인프라 운영과 신속한 장애 대응**에 기여하고 싶습니다.
 ------------------------------
+# Educate
+> AWS CLOUD SCHOOL 8TH 2024.12.26 ~ 2025.07.11
+
 <!--
 **hod0ng/hod0ng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
